@@ -1,0 +1,49 @@
+.page-header {
+    background-color: #DE1F80;
+    margin-top: 0;
+    text-align:center;
+    padding: 30px;
+    border: 1px solid #333;
+    font-family: 'Lobster', cursive;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #1fdeb6;
+    font-size: 40pt;
+    text-decoration: none;
+}
+
+.content {
+    margin:auto;
+}
+
+.post {
+    border-bottom: 1.5px solid #DE1F80;
+    h1, h2, h3, h4{
+        font-family: 'playfair Display', serif;
+    }
+}
+
+.date {
+    font-size:10pt;
+    color: #333;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textrea, .postform input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post h2 a, .post h2 a:visited {
+    color: #6d28a8;
+}
